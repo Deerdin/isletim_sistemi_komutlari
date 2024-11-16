@@ -1,6 +1,7 @@
 # ${{\color{purple}L}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}u}}\{{\color{red}x}}\ \ \{{\color{cyan}Komutları}}$
- ![SS1](https://github.com/user-attachments/assets/e0b42af6-50df-4742-aad5-4e06f1365102)
- ![SS2](https://github.com/user-attachments/assets/83f5f932-f5ca-4ca0-b244-a914ef8039d9)
+![SS1](https://github.com/user-attachments/assets/e0b42af6-50df-4742-aad5-4e06f1365102)
+
+![SS2](https://github.com/user-attachments/assets/83f5f932-f5ca-4ca0-b244-a914ef8039d9)
 
 ![SS3](https://github.com/user-attachments/assets/708cef5a-72a7-4a20-8d52-e5fa3af3e20c)
 
