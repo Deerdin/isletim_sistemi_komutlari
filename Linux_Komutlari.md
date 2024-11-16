@@ -1,4 +1,4 @@
-# ${{\color{purple}L}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}u}}\{{\color{red}x}}\ \ \{{\color{blue}Komutları}}$
+# ${{\color{purple}L}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}u}}\{{\color{red}x}}\ \ \{{\color{blue}Konsol \ Komutları}}$
 ## ${{\color{purple} 1. }}\{{\color{cyan}Komut}}$ ---> `pwd` Komutu mevcut dizinin yolunu gösterir.
 ```shell
 pwd 
