@@ -1,4 +1,4 @@
-# ${{\color{purple}W}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}d}}\{{\color{red}o}}\{{\color{orange}w}}\{{\color{brown}s}}\ \ \{{\color{blue}Komutları}}$
+# ${{\color{purple}W}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}d}}\{{\color{red}o}}\{{\color{orange}w}}\{{\color{brown}s}}\ \ \{{\color{blue}DOS \ komutları}}$
 ## ${{\color{purple} 1. }}\{{\color{cyan}Komut}}$ ---> `hostname` Komutu bilgisayarın adını gösterir.
 ```shell
 hostname 
