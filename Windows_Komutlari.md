@@ -19,32 +19,32 @@ cd C:\Users\erdin
 ```shell
 cd C:\Users\erdin\Desktop
 ```
-![SS3](https://github.com/user-attachments/assets/5a0058dd-b4a8-4e25-ab7c-587c11bcf316)
+![SS3](https://github.com/user-attachments/assets/3f778c40-d0a4-4d52-aeb1-eac44a095eb9)
 ## ${{\color{purple} 4. }}\{{\color{cyan}Komut}}$  ---> `mkdir` Komutu yeni bir klasör oluşturur.
 ```shell
 mkdir yeni_klasor  
 ```
-![SS4](https://github.com/user-attachments/assets/3f778c40-d0a4-4d52-aeb1-eac44a095eb9)
+![SS4](https://github.com/user-attachments/assets/1a717e0f-5d2d-4628-8632-de92a413da4d)
 ## ${{\color{purple} 5. }}\{{\color{cyan}Komut}}$  ---> `del` Komutu bir dosya siler.
 ```shell
 del yeni_klasor
 ```
-![SS5](https://github.com/user-attachments/assets/1a717e0f-5d2d-4628-8632-de92a413da4d)
+![SS5](https://github.com/user-attachments/assets/49c6b66f-4b80-4fc2-8ec5-311b37332dd5)
 ## ${{\color{purple} 6. }}\{{\color{cyan}Komut}}$  ---> `tree` Komutu dizin yapısını ağaç şeklinde gösterir.
 ```shell
 tree
 ```
-![SS6](https://github.com/user-attachments/assets/49c6b66f-4b80-4fc2-8ec5-311b37332dd5)
+![SS6](https://github.com/user-attachments/assets/c97f9800-50e2-4cad-842d-c68b31eeb999)
 ## ${{\color{purple} 7. }}\{{\color{cyan}Komut}}$  ---> `ren` Komutu bir dizinin adını değiştirir.
 ```shell
 ren eski_isim yeni_isim
 ```
-![SS7](https://github.com/user-attachments/assets/c97f9800-50e2-4cad-842d-c68b31eeb999)
+![SS7](https://github.com/user-attachments/assets/8f4e54da-c850-470f-bd11-46418c33849e)
 ## ${{\color{purple} 8. }}\{{\color{cyan}Komut}}$  ---> `type` Komutu metin belgesinin içeriğini görüntüler.
 ```shell
 type yeni.txt
 ```
-![SS8](https://github.com/user-attachments/assets/8f4e54da-c850-470f-bd11-46418c33849e)
+![SS8](https://github.com/user-attachments/assets/5a0058dd-b4a8-4e25-ab7c-587c11bcf316)
 ## ${{\color{purple} 9. }}\{{\color{cyan}Komut}}$  ---> `exit` Komutu terminali kapatır.
 ```shell
 exit
