@@ -1,4 +1,18 @@
-# ${{\color{purple}L}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}u}}\{{\color{red}x}}\ \ \{{\color{cyan}Komutları}}$
+# ${{\color{purple}L}}\{{\color{green}i}}\{{\color{pink}n}}\{{\color{yellow}u}}\{{\color{red}x}}\ \ \{{\color{blue}Komutları}}$
+### ${{\color{cyan}pwd}}$ ---> `pwd` komutu mevcut dizinin yolunu gösterir.
+```shell
+pwd 
+```
+### ${{\color{cyan}ls}}$  ---> `ls` komutu dizinin içeriğini gösterir.
+```shell
+ls  
+```
+### ${{\color{cyan}cd}}$  ---> `cd` komutu belirtilen dizine geçer.
+```shell
+cd /home
+cd /home/mint
+cd /home/mint/Desktop
+```
 ![SS1](https://github.com/user-attachments/assets/e0b42af6-50df-4742-aad5-4e06f1365102)
 
 ![SS2](https://github.com/user-attachments/assets/83f5f932-f5ca-4ca0-b244-a914ef8039d9)
