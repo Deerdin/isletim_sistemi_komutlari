@@ -24,7 +24,7 @@ mkdir yeni_klasor
 
 ## ${{\color{purple} 5. }}\{{\color{cyan}Komut}}$  ---> `del` Komutu bir dosya siler.
 ```shell
-del sil.txt 
+del yeni_klasor
 ```
 
 ## ${{\color{purple} 6. }}\{{\color{cyan}Komut}}$  ---> `tree` Komutu dizin yapısını ağaç şeklinde gösterir.
@@ -42,14 +42,14 @@ ren eski_isim yeni_isim
 type yeni.txt
 ```
 
-## ${{\color{purple} 9. }}\{{\color{cyan}Komut}}$  ---> `sfc` Komutu bozuk sistem dosyalarını tarar ve onarır.
+## ${{\color{purple} 9. }}\{{\color{cyan}Komut}}$  ---> `exit` Komutu terminali kapatır.
 ```shell
-sfc /scannow
+exit
 ```
 
-## ${{\color{purple} 10. }}\{{\color{cyan}Komut}}$  ---> `chkdsk` Komutu disk hatalarını tarar ve düzeltir.
+## ${{\color{purple} 10. }}\{{\color{cyan}Komut}}$  ---> `resmon` Komutu kaynak izleyicisinin penceresini açar.
 ```shell
-chkdsk C: /f
+resmon
 ```
 
 ## ${{\color{purple} 11. }}\{{\color{cyan}Komut}}$  ---> `msinfo32` Komutu sistem bilgilerini gösterir. 
@@ -64,7 +64,7 @@ winver
 
 ## ${{\color{purple} 13. }}\{{\color{cyan}Komut}}$  ---> `move` Komutu dosyaları taşımada kullanılır.
 ```shell
-mv 
+move beni_tasi buraya_tasi
 ```
 
 ## ${{\color{purple} 14. }}\{{\color{cyan}Komut}}$  ---> `whoami` Komutu geçerli kullanıcıyı gösterir.
@@ -79,7 +79,7 @@ date
 
 ## ${{\color{purple} 16. }}\{{\color{cyan}Komut}}$  ---> `ping` Komutu ağ bağlantılarının doğruluğunu ve ağ cihazlarının erişilebilirliğini test etmek için kullanılır.
 ```shell
-ping .com 
+ping google.com 
 ```
 
 ## ${{\color{purple} 17. }}\{{\color{cyan}Komut}}$  ---> `echo` Komutu terminale yazdırmak istenileni yazdırır.
@@ -99,7 +99,7 @@ history 5
 
 ## ${{\color{purple} 20. }}\{{\color{cyan}Komut}}$  ---> `copy` Komutu dosyaları belirtilen dizine kopyalar.
 ```shell
-copy
+copy beni_kopyala buraya_kopyala 
 ```
 
 ## ${{\color{purple} 21. }}\{{\color{cyan}Komut}}$  ---> `shutdown` Komutu 30 saniye sonra bilgisayarı kapatır.
