@@ -110,7 +110,7 @@ copy beni_kopyala buraya_kopyala
 shutdown /s /t 30
 ```
 ![SS21](https://github.com/user-attachments/assets/db4d6b17-91ca-40a8-bfe4-51965ffcf3c8)
-## ${{\color{purple} extra }}\{{\color{cyan}Komut}}$  ---> `powershell` üzerinden çalıştırılabilen bir pencere açmamıza yarayan güzel bir kod.
+## ${{\color{purple} EXTRA }}\{{\color{cyan}Komut}}$  ---> `powershell` üzerinden çalıştırılabilen bir pencere açmamıza yarayan güzel bir kod.
 ```shell
 $isim=read-host -prompt "Lütfen adınızı giriniz"
 $mesaj="Sen ne iyi bir insansın "+$isim
@@ -118,7 +118,7 @@ $wshell = New-Object -ComObject Wscript.Shell
 $wshell.Popup($Mesaj,0,"Günün Mesaji",0x1)
 ```
 ![SSEXTRA](https://github.com/user-attachments/assets/e531ee87-a533-4a5b-b7cb-31fc797de87a)
-## ${{\color{purple} extra }}\{{\color{cyan}Komut}}$  ---> `curl parrot.live` cmd'yi yönetici olarak çalıştırıp komutu yazdığımda güzel renkli bir papağanın giff görüntüsünü sağlayan kod.
+## ${{\color{purple} EXTRA }}\{{\color{cyan}Komut}}$  ---> `curl parrot.live` cmd'yi yönetici olarak çalıştırıp komutu yazdığımda güzel renkli bir papağanın giff görüntüsünü sağlayan kod.
 ```shell
 curl parrot.live
 ```
