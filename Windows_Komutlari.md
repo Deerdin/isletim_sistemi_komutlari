@@ -118,7 +118,7 @@ $wshell = New-Object -ComObject Wscript.Shell
 $wshell.Popup($Mesaj,0,"Günün Mesaji",0x1)
 ```
 ![SSEXTRA](https://github.com/user-attachments/assets/e531ee87-a533-4a5b-b7cb-31fc797de87a)
-## ${{\color{purple} EXTRA }}\{{\color{cyan}Komut}}$  ---> `curl parrot.live` cmd'yi yönetici olarak çalıştırıp komutu yazdığımda güzel renkli bir papağanın giff görüntüsünü sağlayan kod.
+## ${{\color{purple} EXTRA }}\{{\color{cyan}Komut}}$  ---> `curl parrot.live` cmd'yi yönetici olarak çalıştırıp komutu yazdığımızmda güzel renkli bir papağanın giff görüntüsünü sağlayan kod.
 ```shell
 curl parrot.live
 ```
